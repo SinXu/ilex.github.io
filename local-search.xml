@@ -4,7 +4,7 @@
   
   
   <entry>
-    <title>test</title>
+    <title>测试</title>
     <link href="/Users/apple/SinSin/2021/02/18/test/"/>
     <url>/Users/apple/SinSin/2021/02/18/test/</url>
     
@@ -17,7 +17,26 @@
   
   
   <entry>
-    <title>Hello World</title>
+    <title>随便谢谢</title>
+    <link href="/Users/apple/SinSin/2021/02/18/%E6%8A%80%E6%9C%AF/"/>
+    <url>/Users/apple/SinSin/2021/02/18/%E6%8A%80%E6%9C%AF/</url>
+    
+    <content type="html"><![CDATA[<h1 id="瞎写"><a href="#瞎写" class="headerlink" title="瞎写"></a>瞎写</h1><p>sinsin</p><p>写好了看看效果吧</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>瞎写</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>简单测试</title>
     <link href="/Users/apple/SinSin/2021/02/18/hello-world/"/>
     <url>/Users/apple/SinSin/2021/02/18/hello-world/</url>
     
